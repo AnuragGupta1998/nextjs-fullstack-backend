@@ -29,9 +29,9 @@ const userSchema = new Schema(
 
         verifyTokenExpiry: Date,
 
-        forgattenPassword: String,
+        forgotPassword: String,
 
-        forgattenPasswordExpiry: Date,
+        forgotPasswordExpiry: Date,
     }
 )
 
