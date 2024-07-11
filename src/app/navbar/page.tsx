@@ -35,6 +35,12 @@ function Navbar() {
           </Link>
 
         </button>
+        <button className='border rounded-full px-4 bg-cyan-200 font-bold hover:bg-cyan-500'>
+          <Link href={"/profile"}>
+            profile
+          </Link>
+
+        </button>
 
 
       </div>
